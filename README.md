@@ -1,4 +1,4 @@
-# jupyter_popular_game_analysis
+# jupyter_popular_app_analysis
 
 This jupyter notebook was created from a Dataquest project where I was tasked with finding the most profitable app profiles in the Apple iOS Store and the Google Play Store to then make a suggestion to a company that was interested in where they should focus their development efforts for a new app.
 
